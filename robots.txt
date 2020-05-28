@@ -1,5 +1,4 @@
-User-agent: Googlebot
-User-agent: NaverBot
+User-agent: *
 Allow: /
 
 Sitemap: http://hongiee2.github.io/sitemap.xml
