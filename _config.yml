@@ -20,8 +20,8 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-#  About Me: "aboutme"
-  Posts: "page2/"
+  About Me: "aboutme"
+  Post: "https://hongiee2.github.io/"
   Tag: "tags/"
 #  Search: "search/"
 
