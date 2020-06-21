@@ -84,8 +84,8 @@
         <entry file="file://$PROJECT_DIR$/Work.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="161">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="152" selection-start-line="9" selection-start-column="152" selection-end-line="9" selection-end-column="152" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,7 +199,7 @@
       <workItem from="1592740257016" duration="3570000" />
       <workItem from="1592744513592" duration="1110000" />
       <workItem from="1592746073765" duration="285000" />
-      <workItem from="1592746903354" duration="1052000" />
+      <workItem from="1592746903354" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="fix robots.txt">
       <created>1590683844195</created>
@@ -212,7 +212,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7785000" />
+    <option name="totallyTimeSpent" value="7839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -390,8 +390,8 @@
     <entry file="file://$PROJECT_DIR$/Work.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="152" selection-start-line="9" selection-start-column="152" selection-end-line="9" selection-end-column="152" />
           </first_editor>
           <second_editor />
         </state>
