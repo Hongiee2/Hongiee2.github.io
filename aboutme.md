@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About me
+title: Kihong Kim
 subtitle: Machine Learning / Creative Coding
 ---
 
-Hi, My name is **Hongiee** Kihong Kim. You can call me **Hongiee**. I'm currently studying at **Gwangju Institute of Science and Technology**, where I'm exploring **Generative Models** to re-create the visual world.
+I'm currently studying at **Gwangju Institute of Science and Technology**, where I'm exploring **Generative Models** to re-create the visual world.
 
-I enjoy creating meaningful projects, which help humans be creative with technology. In the future, I want to work on projects, such as **media art**, **interactive installations**.
+I enjoy creating meaningful projects, which help humans be creative with technology.
 
-In my free time, I usually ~~listen Music, watch Netflix~~. So, if you are interested in . Please talk to me Later.
+In the future, I want to work on projects, such as **media art**, **interactive installations**.
 
 
-### Education  
+### 🙋‍♂️ Education  
 - M.S. in **Gwangju Institute of Science and Technology**, Gwangju, Korea (2020 ~ Present)
   - Cognition & Intelligence Lab
 - B.S. in **Sejong University**, Seoul, Korea (2014 ~ 2020)
@@ -19,18 +19,19 @@ In my free time, I usually ~~listen Music, watch Netflix~~. So, if you are inter
   - Major in **Entertainment Software**
 
 
-### Research Interests  
+### ✍ Research Interests  
 - Machine Learning
-  - Neural Style Transfer
   - Generative Model
-  - Creative Adversarial Networks  
+  - Neural Style Transfer
 
-- Computer Graphics
+- Creative Coding
   - Generative Art
-  - Physics-Based Simulation
+  - Game Development
 
+### 📄 Skills
+- Strong : `Pytorch`, `Python`
+- Knowledgeable : `C`, `C++`
 
-### Tools
-- GLSL
+### 🔧 Tools
+- Unreal Engine
 - openFrameworks
-
