@@ -22,7 +22,7 @@ baseurl: ""
 # md는 ""이고 html은 Post/인건가?
 navbar-links:
   About Me: "aboutme"
-  Post: ""
+  Post: "index/"
   Tag: "tags/"
 #  Search: "search/"
 
