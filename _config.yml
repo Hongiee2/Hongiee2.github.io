@@ -11,7 +11,7 @@ description: Love Your Fate
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://hongiee2.github.io/aboutme"
+url: "https://hongiee2.github.io/"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -21,7 +21,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Post: "hongiee2.github.io"
+  Post: "Post/"
   Tag: "tags/"
 #  Search: "search/"
 
