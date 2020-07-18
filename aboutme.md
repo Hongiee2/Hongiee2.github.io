@@ -26,12 +26,10 @@ In the future, I want to work on projects, such as **media art**, **interactive 
 
 - Creative Coding
   - Generative Art
-  - Game Development
 
 ### 📄 Skills
 - Strong : `Pytorch`, `Python`
 - Knowledgeable : `C`, `C++`
 
 ### 🔧 Tools
-- Unreal Engine
 - openFrameworks
